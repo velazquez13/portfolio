@@ -47,6 +47,9 @@ header nav ul li a {
     background-position: center;
     position: relative;
 }
+.intro {
+    background-color: #638995;
+}
 .about-me {
     text-align: left;
 }
