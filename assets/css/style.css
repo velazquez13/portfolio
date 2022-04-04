@@ -51,10 +51,12 @@ header nav ul li a {
     text-align: right;
     padding: 55px;
 }
+.table {
+    background-color: var(--tertiary-color);
+}
 .section-title {
     background-color: var(--tertiary-color);
 }
-
 .assignment-styling {
     background-color: var(--tertiary-color);
     transition: width 2s, height 4s;
